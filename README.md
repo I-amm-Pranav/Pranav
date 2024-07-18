@@ -7,7 +7,7 @@ FullStack Developer
 - 🤔 I’m looking for help with Placements
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/impranav2003/))
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/impranav2003/)
   <br/>![](https://komarev.com/ghpvc/?username=I-amm-Pranav&label=PROFILE+VIEWS)
 
 
@@ -19,4 +19,4 @@ FullStack Developer
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-amm-Pranav&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=I-amm-Pranav&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=I-amm-Pranav&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
